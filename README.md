@@ -1,2 +1,2 @@
 # Sistema-de-Prueba
-Sistema de Prueba
+Sistema de prueba
