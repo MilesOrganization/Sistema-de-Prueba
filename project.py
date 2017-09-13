@@ -14,7 +14,7 @@ def divisible_by_3(num):
     2: Divisibility
     >>> divisible_by_3(9)
     True
-    >>> divisible_by_3(7)
+    >>> divisible_y_3(7)
     False
     """
     return num % 3 == 0
